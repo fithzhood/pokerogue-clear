@@ -3608,7 +3608,7 @@
   }
 
   /* ---------------- Fine ondata ---------------- */
-    /* Ondata superata: il corpo di sempre. */
+  /* Ondata superata: il corpo di sempre. */
   function onWaveCleared() {
     vittoriaOndata();
   }
